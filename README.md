@@ -13,36 +13,40 @@ This project investigates the reasons behind Intel’s decline in dominance in t
 ## 🔑 Highlights
 
 ### 📊 Financial Ratio Analysis
-	•	Comprehensive analysis of Intel’s financial performance over time compared to AMD, ARM, and Nvidia.
-	•	Identification of trends in profitability, liquidity, and growth metrics.
+•	Comprehensive analysis of Intel’s financial performance over time compared to AMD, ARM, and Nvidia.
+•	Identification of trends in profitability, liquidity, and growth metrics.
 
 ### 🧠 Technological Lag
-	•	Evaluation of Intel’s hesitancy to adapt to revolutionary technologies like:
-	•	Internet of Things (IoT)
-	•	Artificial Intelligence (AI)
-	•	Smartphones
-	•	Insights into how competitors capitalized on these advancements.
+•	Evaluation of Intel’s hesitancy to adapt to revolutionary technologies like:
+•	Internet of Things (IoT)
+•	Artificial Intelligence (AI)
+•	Smartphones
+•	Insights into how competitors capitalized on these advancements.
 
 ### 🏢 Leadership Decisions
-	•	Analysis of the impact of Intel’s CEO choices on the company’s strategy and innovation.
-	•	Comparative study of leadership styles and strategic visions between Intel and its competitors.
+•	Analysis of the impact of Intel’s CEO choices on the company’s strategy and innovation.
+•	Comparative study of leadership styles and strategic visions between Intel and its competitors.
 
 ## 🛠️ Tools and Technologies
-	•	Python: Used for data cleaning, financial ratio calculations, and visualization.
-	•	Mathematica: Employed for advanced mathematical modeling and analytical tasks.
+•	Python: Used for data cleaning, financial ratio calculations, and visualization.
+•	Mathematica: Employed for advanced mathematical modeling and analytical tasks.
 
 ## 📈 Key Insights
-	1.	Technology Adoption: Intel lagged in adopting transformative technologies, resulting in missed market opportunities.
-	2.	Leadership Challenges: Leadership inconsistencies and poor strategic direction contributed to Intel’s decline.
-	3.	Competitor Strategy: AMD, ARM, and Nvidia aggressively pursued innovation and diversification, enabling them to surpass Intel.
+1.	Technology Adoption: Intel lagged in adopting transformative technologies, resulting in missed market opportunities.
+2.	Leadership Challenges: Leadership inconsistencies and poor strategic direction contributed to Intel’s decline.
+3.	Competitor Strategy: AMD, ARM, and Nvidia aggressively pursued innovation and diversification, enabling them to surpass Intel.
 
 ## 📂 Repository Contents
-	•	Code Files: Python scripts and Mathematica notebooks used for data analysis and modeling.
-	•	Visualizations: Graphs and charts illustrating financial performance and trends.
-	•	Documentation: Detailed explanation of methodologies, findings, and recommendations.
+•	Code Files: Python scripts and Mathematica notebooks used for data analysis and modeling.
+•	Visualizations: Graphs and charts illustrating financial performance and trends.
+•	Documentation: Detailed explanation of methodologies, findings, and recommendations.
 
 ## 🖥️ Setup Instructions
-	1.	Clone this repository: git clone https://github.com/yourusername/intel-analysis
+1.	Clone this repository:
+
+
+ 
+ 		git clone https://github.com/yourusername/intel-analysis
 
 
 	2.	Navigate to the project directory: cd intel-analysis
