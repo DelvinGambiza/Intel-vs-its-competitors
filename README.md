@@ -38,11 +38,11 @@ This project investigates the reasons behind Intel’s decline in dominance in t
 
 ## 📂 Repository Contents
 
-•	Code Files: Python scripts and Mathematica notebooks used for data analysis and modeling.
+•	Code File: final.nb - includes both the Python and Mathematica code for the analysis and the respective visualizations illustrating financial performance and trends
 
-•	Visualizations: Graphs and charts illustrating financial performance and trends.
+•	Data: Financial statements in Excel format for each of the companies
 
-•	Documentation: Detailed explanation of methodologies, findings, and recommendations.
+•	Documentation: Detailed explanation of methodologies, findings, and recommendations available in the Readme file
 
 ## 🖥️ Setup Instructions
 1.	Clone this repository:
