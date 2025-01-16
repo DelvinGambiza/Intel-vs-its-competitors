@@ -66,7 +66,13 @@ This project investigates the reasons behind Intel’s decline in dominance in t
 6.	Open the Mathematica notebook (final_code.nb) to explore the analysis.
 
 
-## 👏Acknowledgements:  
+## 💡 Conclusion:
+Intel's downfall was attributed by three major reasons:
+1. Failure to evolve with technology i.e. they failed to adapt - Moore’s law, they were too comfortable , did not take advantage of expansion opportunities.Intel missed out on the four major industries that developed over the past 20 years i.e. smartphone industry, gaming ,cryptocurrency and AI
+2. Management blunder: they hired CEOs who did not have much experience in the GPU/CPU industry ,prioritized what was not necessarily important for the organization's growth
+
+
+## 👏 Acknowledgements:  
 
 This project is a result of successful collaboration with:
 1. Millicent Muchepa
