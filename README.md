@@ -37,8 +37,11 @@ This project investigates the reasons behind Intel’s decline in dominance in t
 3.	Competitor Strategy: AMD, ARM, and Nvidia aggressively pursued innovation and diversification, enabling them to surpass Intel.
 
 ## 📂 Repository Contents
+
 •	Code Files: Python scripts and Mathematica notebooks used for data analysis and modeling.
+
 •	Visualizations: Graphs and charts illustrating financial performance and trends.
+
 •	Documentation: Detailed explanation of methodologies, findings, and recommendations.
 
 ## 🖥️ Setup Instructions
