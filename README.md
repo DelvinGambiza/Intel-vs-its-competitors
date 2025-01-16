@@ -1,4 +1,4 @@
-# 🔍Clash of the GPU and CPU Titans:Intel vs Nvidia, AMD, Arm
+# 🔍Clash of the GPU and CPU Titans : Intel vs Nvidia, AMD, Arm
 
 ## 📖 Overview
 
