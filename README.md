@@ -49,11 +49,17 @@ This project investigates the reasons behind Intel’s decline in dominance in t
  		git clone https://github.com/yourusername/intel-analysis
 
 
-	2.	Navigate to the project directory: cd intel-analysis
+2.	Navigate to the project directory:
+
+   
+		cd intel-analysis
 
 
-	3.	Install the required Python libraries: pip install -r requirements.txt
+4.	Install the required Python libraries:
+
+   
+   		 pip install -r requirements.txt
 
 
-	4.	Open the Mathematica notebook (final_code.nb) to explore the analysis.
+6.	Open the Mathematica notebook (final_code.nb) to explore the analysis.
 
