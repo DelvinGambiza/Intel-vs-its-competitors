@@ -5,10 +5,10 @@
 This project investigates the reasons behind Intel’s decline in dominance in the CPU and GPU markets, which allowed competitors like AMD, ARM, and Nvidia to overtake it. Through financial ratio analysis and strategic business evaluation, the study highlights Intel’s challenges in adapting to technological advancements and making effective leadership decisions.
 
 ##🎯 Key Objectives
-	1.	Analyze financial ratios to evaluate Intel’s performance compared to its competitors.
-	2.	Investigate Intel’s strategy and responsiveness to emerging technologies (e.g., IoT, AI, smartphones).
-	3.	Assess leadership decisions, including the impact of CEO choices, on Intel’s competitive standing.
-	4.	Provide actionable insights into areas of improvement for Intel.
+1. Analyze financial ratios to evaluate Intel’s performance compared to its competitors.
+2. Investigate Intel’s strategy and responsiveness to emerging technologies (e.g., IoT, AI, smartphones).
+3. Assess leadership decisions, including the impact of CEO choices, on Intel’s competitive standing.
+4. Provide actionable insights into areas of improvement for Intel.
 
 ##🔑 Highlights
 
