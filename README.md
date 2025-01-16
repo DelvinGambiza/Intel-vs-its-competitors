@@ -44,7 +44,6 @@ This project investigates the reasons behind Intel’s decline in dominance in t
 ## 🖥️ Setup Instructions
 1.	Clone this repository:
 
-
  
  		git clone https://github.com/yourusername/intel-analysis
 
