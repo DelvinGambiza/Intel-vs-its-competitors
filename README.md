@@ -65,3 +65,11 @@ This project investigates the reasons behind Intel’s decline in dominance in t
 
 6.	Open the Mathematica notebook (final_code.nb) to explore the analysis.
 
+
+## 👏Acknowledgements:  
+
+This project is a result of successful collaboration with:
+1. Millicent Muchepa
+2. Manas Tokale
+3. Kesava Ram Raghavan
+
